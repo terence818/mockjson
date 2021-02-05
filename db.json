@@ -1,14 +1,11 @@
 
   {
-  "popular": [
+  "restaurant": [
       {
-        "name": "Nasi Goreng",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
-        "rating": "5.0",
-        "deliveryTime": "45 mins",
-        "deliveryCharges": "Free Delivery",
-        "price": "6",
-        "note": "Extra special"
+        "id":1,
+        "name": "Restaurant Murni",
+        "imageUrl": "https://drive.google.com/file/d/1Uuu99SJpth06F_X4Hj9V-SK_xS_0MCrQ/view?usp=sharing",
+        "note":"Noodles,Rice,Roti etc"
       },
       {
         "name": "Rendang",
@@ -79,7 +76,7 @@
   "allmenu": [
       {
         "name": "Nasi Goreng",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "imageUrl": "https://drive.google.com/file/d/1Uuu99SJpth06F_X4Hj9V-SK_xS_0MCrQ/view?usp=sharing",
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Free Delivery",
